@@ -1,6 +1,9 @@
 # MvcSiteMapProvider_TwoSiteExample
 Project to show my usage of hostName across two sites. See read me and stack overflow question.
 
+Reference: 
+ - http://stackoverflow.com/questions/29985525/mvcsitemapprovider-external-link-incorrect-on-live-site
+
 3 Projects
  - MVC4 Website "Site1"
  - MVC4 Website "other Site"
