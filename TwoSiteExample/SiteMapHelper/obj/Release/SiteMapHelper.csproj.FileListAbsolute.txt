@@ -1,0 +1,13 @@
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\bin\Release\TwoSiteExample.MvcSiteMap.SiteMapHelper.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\bin\Release\TwoSiteExample.MvcSiteMap.SiteMapHelper.pdb
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\bin\Release\MvcSiteMapProvider.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\bin\Release\MvcSiteMapProvider.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\obj\Release\TwoSiteExample.MvcSiteMap.SiteMapHelper.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\obj\Release\TwoSiteExample.MvcSiteMap.SiteMapHelper.pdb
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\SiteMapHelper\bin\Release\TwoSiteExample.MvcSiteMap.SiteMapHelper.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\SiteMapHelper\bin\Release\TwoSiteExample.MvcSiteMap.SiteMapHelper.pdb
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\SiteMapHelper\bin\Release\MvcSiteMapProvider.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\SiteMapHelper\bin\Release\MvcSiteMapProvider.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\SiteMapHelper\obj\Release\SiteMapHelper.csprojResolveAssemblyReference.cache
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\SiteMapHelper\obj\Release\TwoSiteExample.MvcSiteMap.SiteMapHelper.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\SiteMapHelper\obj\Release\TwoSiteExample.MvcSiteMap.SiteMapHelper.pdb

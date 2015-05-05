@@ -1,0 +1,174 @@
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\TwoSiteExample.MvcSiteMap.Site2_otherSite.dll.config
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\TwoSiteExample.MvcSiteMap.Site2_otherSite.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\TwoSiteExample.MvcSiteMap.Site2_otherSite.pdb
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\Antlr3.Runtime.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.AspNet.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.Core.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OAuth.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OpenId.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\EntityFramework.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\Microsoft.Data.Edm.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\Microsoft.Data.OData.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\Microsoft.Web.Infrastructure.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\MvcSiteMapProvider.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\MvcSiteMapProvider.WebActivator.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\Newtonsoft.Json.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Spatial.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.Helpers.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.Http.OData.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.Mvc.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.Optimization.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.Razor.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.WebPages.Deployment.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.WebPages.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.WebPages.Razor.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\TwoSiteExample.MvcSiteMap.SiteMapHelper.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\WebActivatorEx.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\WebGrease.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\WebMatrix.Data.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\WebMatrix.WebData.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\TwoSiteExample.MvcSiteMap.SiteMapHelper.pdb
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\MvcSiteMapProvider.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\MvcSiteMapProvider.WebActivator.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\EntityFramework.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\Newtonsoft.Json.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.Helpers.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.Mvc.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.Razor.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.WebPages.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.WebPages.Deployment.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.WebPages.Razor.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\WebMatrix.Data.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\WebMatrix.WebData.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.AspNet.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.Core.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OAuth.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OpenId.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Web.Http.OData.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\Microsoft.Data.Edm.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\Microsoft.Data.OData.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\System.Spatial.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\de\Microsoft.Data.Edm.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\es\Microsoft.Data.Edm.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\it\Microsoft.Data.Edm.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\de\Microsoft.Data.OData.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\es\Microsoft.Data.OData.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\fr\Microsoft.Data.OData.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\it\Microsoft.Data.OData.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\ja\Microsoft.Data.OData.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\ko\Microsoft.Data.OData.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\ru\Microsoft.Data.OData.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\de\System.Spatial.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\es\System.Spatial.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\fr\System.Spatial.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\it\System.Spatial.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\ja\System.Spatial.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\ko\System.Spatial.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\ru\System.Spatial.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\zh-Hans\System.Spatial.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\bin\zh-Hant\System.Spatial.resources.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\obj\Release\TwoSiteExample.MvcSiteMap.Site2_otherSite.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\obj\Release\TwoSiteExample.MvcSiteMap.Site2_otherSite.pdb
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\Site2_otherSite\obj\Release\Site2_otherSite.csprojResolveAssemblyReference.cache
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\TwoSiteExample.MvcSiteMap.Site2_otherSite.dll.config
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\TwoSiteExample.MvcSiteMap.Site2_otherSite.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\TwoSiteExample.MvcSiteMap.Site2_otherSite.pdb
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\Antlr3.Runtime.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.Core.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\EntityFramework.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\Microsoft.Data.Edm.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\Microsoft.Data.OData.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\MvcSiteMapProvider.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\MvcSiteMapProvider.WebActivator.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\Newtonsoft.Json.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Spatial.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.Helpers.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.Http.OData.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.Mvc.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.Optimization.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.Razor.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.WebPages.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\TwoSiteExample.MvcSiteMap.SiteMapHelper.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\WebActivatorEx.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\WebGrease.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\WebMatrix.Data.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\WebMatrix.WebData.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\TwoSiteExample.MvcSiteMap.SiteMapHelper.pdb
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\MvcSiteMapProvider.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\MvcSiteMapProvider.WebActivator.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\EntityFramework.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\Newtonsoft.Json.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.Helpers.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.Mvc.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.Razor.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.WebPages.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\WebMatrix.Data.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\WebMatrix.WebData.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.Core.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Web.Http.OData.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\Microsoft.Data.Edm.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\Microsoft.Data.OData.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\System.Spatial.xml
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\de\System.Spatial.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\es\System.Spatial.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\fr\System.Spatial.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\it\System.Spatial.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\ja\System.Spatial.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\ko\System.Spatial.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\ru\System.Spatial.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\obj\Release\Site2_otherSite.csprojResolveAssemblyReference.cache
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\obj\Release\TwoSiteExample.MvcSiteMap.Site2_otherSite.dll
+C:\Users\Simon Legg\Documents\GitHub\MvcSiteMapProvider_TwoSiteExample\TwoSiteExample\Site2_otherSite\obj\Release\TwoSiteExample.MvcSiteMap.Site2_otherSite.pdb

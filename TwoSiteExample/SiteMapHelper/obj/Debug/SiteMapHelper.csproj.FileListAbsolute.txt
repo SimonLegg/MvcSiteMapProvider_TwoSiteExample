@@ -1,0 +1,7 @@
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\bin\Debug\TwoSiteExample.MvcSiteMap.SiteMapHelper.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\bin\Debug\TwoSiteExample.MvcSiteMap.SiteMapHelper.pdb
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\bin\Debug\MvcSiteMapProvider.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\bin\Debug\MvcSiteMapProvider.xml
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\obj\Debug\SiteMapHelper.csprojResolveAssemblyReference.cache
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\obj\Debug\TwoSiteExample.MvcSiteMap.SiteMapHelper.dll
+C:\_Code\Proj_Volo\MvcSiteMapProvider\TwoSiteExample\SiteMapHelper\obj\Debug\TwoSiteExample.MvcSiteMap.SiteMapHelper.pdb
